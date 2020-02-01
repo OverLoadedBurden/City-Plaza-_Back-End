@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fcaf5b1-7565-486c-a231-30250b8e53c4" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="9fcaf5b1-7565-486c-a231-30250b8e53c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Back-End.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Back-End.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back_End/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Back_End/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deliver/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deliver/migrations/0002_auto_20191112_1553.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deliver/migrations/0003_cart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deliver/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deliver/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Products/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Products/migrations/0002_remove_product_store.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Products/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Products/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Products/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shops/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shops/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shops/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shops/migrations/0002_auto_20191111_1635.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shops/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shops/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shops/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shops/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shops/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shops/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,20 +34,31 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TT8Adt9BN0JQglR5WTqdaLpMDb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -44,5 +74,32 @@
       <updated>1573472582296</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580493399354">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1580493399354" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1580466851740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580466851740" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580548060442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580548060442" />
   </component>
 </project>

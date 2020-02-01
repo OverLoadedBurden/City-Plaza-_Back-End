@@ -8,6 +8,10 @@ class Shop(models.Model):
     background = models.BinaryField()
     desc = models.TextField()
     additions = models.TextField()
+    start_hour = models.IntegerField()
+    end_hour = models.IntegerField()
+    phone_no = models.CharField(max_length=14)
+    email = models.EmailField()
 
     def get_rate(self) -> float:
         list = Rate.objects.filter(ref=self)
